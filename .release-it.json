@@ -4,6 +4,6 @@
     "assets": "assets/*.jpg"
   },
 	"npm": {
-		"publish": false,
+		"publish": false
 	}
 }
