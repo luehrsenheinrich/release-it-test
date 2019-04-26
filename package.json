@@ -1,0 +1,25 @@
+{
+  "name": "release-it-test",
+  "version": "1.0.0",
+  "description": "Our test repository for release-it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "env-cmd .env release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luehrsenheinrich/release-it-test.git"
+  },
+  "author": "",
+  "private": true,
+  "license": "GPLv2",
+  "bugs": {
+    "url": "https://github.com/luehrsenheinrich/release-it-test/issues"
+  },
+  "homepage": "https://github.com/luehrsenheinrich/release-it-test#readme",
+  "dependencies": {
+    "env-cmd": "^8.0.2",
+    "release-it": "^10.4.4"
+  }
+}
