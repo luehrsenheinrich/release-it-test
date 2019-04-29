@@ -1,6 +1,6 @@
 {
   "name": "release-it-test",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "Our test repository for release-it",
   "main": "index.js",
   "scripts": {
