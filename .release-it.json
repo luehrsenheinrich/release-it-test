@@ -2,7 +2,7 @@
   "github": {
     "release": true,
     "assets": "assets/*.jpg",
-		"draft": false
+		"draft": true
   },
 	"npm": {
 		"publish": false
